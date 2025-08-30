@@ -188,12 +188,3 @@ The model achieves the following performance on the test set:
   - Adding time-series analysis for tracking freshness degradation
   - Deploying as a mobile application
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- The FruitVeg Freshness dataset creators
-- PyTorch and torchvision teams
-- The open-source community for various libraries and tools used in this project
